@@ -28,5 +28,5 @@ MovieFlix is a web-based application that allows users to search for movies and 
 
 ## Contact
 
-Developed by [Harshil Valiya](https://www.linkedin.com/in/harshil-valiya-1b1082274/)
+[LinkedIn](https://www.linkedin.com/in/harshil-valiya-1b1082274/)
 
